@@ -1,0 +1,14 @@
+C:\dev\Testes\InverteCaracteres\bin\Debug\net9.0\InverteCaracteres.exe
+C:\dev\Testes\InverteCaracteres\bin\Debug\net9.0\InverteCaracteres.deps.json
+C:\dev\Testes\InverteCaracteres\bin\Debug\net9.0\InverteCaracteres.runtimeconfig.json
+C:\dev\Testes\InverteCaracteres\bin\Debug\net9.0\InverteCaracteres.dll
+C:\dev\Testes\InverteCaracteres\bin\Debug\net9.0\InverteCaracteres.pdb
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\InverteCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\InverteCaracteres.AssemblyInfoInputs.cache
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\InverteCaracteres.AssemblyInfo.cs
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\InverteCaracteres.csproj.CoreCompileInputs.cache
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\InverteCaracteres.dll
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\refint\InverteCaracteres.dll
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\InverteCaracteres.pdb
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\InverteCaracteres.genruntimeconfig.cache
+C:\dev\Testes\InverteCaracteres\obj\Debug\net9.0\ref\InverteCaracteres.dll

@@ -1,0 +1,15 @@
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net9.0\FaturamentoDistribuidora.exe
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net9.0\FaturamentoDistribuidora.deps.json
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net9.0\FaturamentoDistribuidora.runtimeconfig.json
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net9.0\FaturamentoDistribuidora.dll
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net9.0\FaturamentoDistribuidora.pdb
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\FaturamentoDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\FaturamentoDistribuidora.AssemblyInfoInputs.cache
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\FaturamentoDistribuidora.AssemblyInfo.cs
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\FaturamentoDistribuidora.csproj.CoreCompileInputs.cache
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\FaturamentoDistribuidora.dll
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\refint\FaturamentoDistribuidora.dll
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\FaturamentoDistribuidora.pdb
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\FaturamentoDistribuidora.genruntimeconfig.cache
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net9.0\ref\FaturamentoDistribuidora.dll
+C:\dev\Testes\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net9.0\Data\dados.json
